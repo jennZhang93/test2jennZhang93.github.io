@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Youyou Zhang Portfolio</title>
-    <link>https://jennzhang93.github.io/</link>
-    <description>Recent content on Youyou Zhang Portfolio</description>
+    <title>Docs on Youyou Zhang Portfolio</title>
+    <link>https://jennzhang93.github.io/docs/</link>
+    <description>Recent content in Docs on Youyou Zhang Portfolio</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Jun 2024 16:09:16 -0500</lastBuildDate>
-    <atom:link href="https://jennzhang93.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jennzhang93.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>https://jennzhang93.github.io/docs/test/</link>
